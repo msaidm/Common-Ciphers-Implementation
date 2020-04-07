@@ -1,0 +1,198 @@
+Caesar Output using 3 as a key:glpwqbzn
+
+Caesar Output using 3 as a key:jftuiaxy
+
+Caesar Output using 3 as a key:ipmgnxmi
+
+Caesar Output using 3 as a key:bqwjivma
+
+Caesar Output using 3 as a key:qmylssyy
+
+Caesar Output using 6 as a key:josztecq
+
+Caesar Output using 6 as a key:miwxldab
+
+Caesar Output using 6 as a key:lspjqapl
+
+Caesar Output using 6 as a key:etzmlypd
+
+Caesar Output using 6 as a key:tpbovvbb
+
+Caesar Output using 12 as a key:puyfzkiw
+
+Caesar Output using 12 as a key:socdrjgh
+
+Caesar Output using 12 as a key:ryvpwgvr
+
+Caesar Output using 12 as a key:kzfsrevj
+
+Caesar Output using 12 as a key:zvhubbhh
+
+Play Fair Output using rats as a key:thfttzrata
+
+Play Fair Output using rats as a key:zusppdbvtv
+
+Play Fair Output using rats as a key:evdvuanvra
+
+Play Fair Output using rats as a key:zlouhdxttv
+
+Play Fair Output using rats as a key:kokztxvx
+
+Play Fair Output using archangel as a key:cilqlyehrr
+
+Play Fair Output using archangel as a key:tousidnvcv
+
+Play Fair Output using archangel as a key:lcrxmdnagh
+
+Play Fair Output using archangel as a key:htrukrsvcv
+
+Play Fair Output using archangel as a key:fqkyvsvx
+
+Hill 2x2 Output: [['u', 'c', 'j', 'e'], ['x', 'u', 'n', 'w']]
+
+Hill 3x3 Output: [['u', 'c', 'j', 'e'], ['x', 'u', 'n', 'w'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['q', 'f', 'u', 'h'], ['u', 'l', 'v', 'o']]
+
+Hill 3x3 Output: [['q', 'f', 'u', 'h'], ['u', 'l', 'v', 'o'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['p', 'q', 'q', 'l'], ['y', 'w', 'f', 'l']]
+
+Hill 3x3 Output: [['p', 'q', 'q', 'l'], ['y', 'w', 'f', 'l'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['n', 'j', 't', 'c'], ['i', 'r', 'a', 'p']]
+
+Hill 3x3 Output: [['n', 'j', 't', 'c'], ['i', 'r', 'a', 'p'], ['a', 'a', 'a', 'a']]
+
+Hill 3x3 Output: [['q', 'g', 'a'], ['m', 'v', 's'], ['p', 'z', 'j']]
+
+Hill 3x3 Output: [['a', 'k', 'k'], ['l', 'a', 'h'], ['o', 'e', 'w']]
+
+Hill 3x3 Output: [['m', 'c', 'i'], ['p', 'z', 'j'], ['x', 'w', 'e']]
+
+Hill 3x3 Output: [['y', 's', 'm'], ['o', 'u', 'r'], ['a', 'o', 'c']]
+
+Vigenere Repeating Output using pie as a key:blebxypn
+
+Vigenere Repeating Output using pie as a key:amquidmn
+
+Vigenere Repeating Output using pie as a key:crxtipsj
+
+Vigenere Repeating Output using pie as a key:dhjxlqvm
+
+Vigenere Repeating Output using pie as a key:sjfpltth
+
+Vigenere auto Output using aether as a key:mhtttlmi
+
+Vigenere auto Output using aether as a key:lifmeqij
+
+Vigenere auto Output using aether as a key:nnmlecqk
+
+Vigenere auto Output using aether as a key:odyphdud
+
+Vigenere auto Output using aether as a key:dfuhhgha
+
+Caesar Output using 3 as a key:glpwqbzn
+
+Caesar Output using 3 as a key:jftuiaxy
+
+Caesar Output using 3 as a key:ipmgnxmi
+
+Caesar Output using 3 as a key:bqwjivma
+
+Caesar Output using 3 as a key:qmylssyy
+
+Caesar Output using 6 as a key:josztecq
+
+Caesar Output using 6 as a key:miwxldab
+
+Caesar Output using 6 as a key:lspjqapl
+
+Caesar Output using 6 as a key:etzmlypd
+
+Caesar Output using 6 as a key:tpbovvbb
+
+Caesar Output using 12 as a key:puyfzkiw
+
+Caesar Output using 12 as a key:socdrjgh
+
+Caesar Output using 12 as a key:ryvpwgvr
+
+Caesar Output using 12 as a key:kzfsrevj
+
+Caesar Output using 12 as a key:zvhubbhh
+
+Play Fair Output using rats as a key:thfttzrata
+
+Play Fair Output using rats as a key:zusppdbvtv
+
+Play Fair Output using rats as a key:evdvuanvra
+
+Play Fair Output using rats as a key:zlouhdxttv
+
+Play Fair Output using rats as a key:kokztxvx
+
+Play Fair Output using archangel as a key:cilqlyehrr
+
+Play Fair Output using archangel as a key:tousidnv
+
+Play Fair Output using archangel as a key:lcrxmdnagh
+
+Play Fair Output using archangel as a key:htrukrsvcv
+
+Play Fair Output using archangel as a key:fqkyvsvx
+
+Hill 2x2 Output: [['u', 'c', 'j', 'e'], ['x', 'u', 'n', 'w']]
+
+Hill 3x3 Output: [['u', 'c', 'j', 'e'], ['x', 'u', 'n', 'w'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['q', 'f', 'u', 'h'], ['u', 'l', 'v', 'o']]
+
+Hill 3x3 Output: [['q', 'f', 'u', 'h'], ['u', 'l', 'v', 'o'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['p', 'q', 'q', 'l'], ['y', 'w', 'f', 'l']]
+
+Hill 3x3 Output: [['p', 'q', 'q', 'l'], ['y', 'w', 'f', 'l'], ['a', 'a', 'a', 'a']]
+
+Hill 2x2 Output: [['n', 'j', 't', 'c'], ['i', 'r', 'a', 'p']]
+
+Hill 3x3 Output: [['n', 'j', 't', 'c'], ['i', 'r', 'a', 'p'], ['a', 'a', 'a', 'a']]
+
+Hill 3x3 Output: [['q', 'g', 'a'], ['m', 'v', 's'], ['p', 'z', 'j']]
+
+Hill 3x3 Output: [['a', 'k', 'k'], ['l', 'a', 'h'], ['o', 'e', 'w']]
+
+Hill 3x3 Output: [['m', 'c', 'i'], ['p', 'z', 'j'], ['x', 'w', 'e']]
+
+Hill 3x3 Output: [['y', 's', 'm'], ['o', 'u', 'r'], ['a', 'o', 'c']]
+
+Vigenere Repeating Output using pie as a key:blebxypn
+
+Vigenere Repeating Output using pie as a key:amquidmn
+
+Vigenere Repeating Output using pie as a key:crxtipsj
+
+Vigenere Repeating Output using pie as a key:dhjxlqvm
+
+Vigenere Repeating Output using pie as a key:sjfpltth
+
+Vigenere auto Output using aether as a key:mhtttlmi
+
+Vigenere auto Output using aether as a key:lifmeqij
+
+Vigenere auto Output using aether as a key:nnmlecqk
+
+Vigenere auto Output using aether as a key:odyphdud
+
+Vigenere auto Output using aether as a key:dfuhhgha
+
+Vernam Output using SPARTANS as a key:hmpkrrsb
+
+Vernam Output using SPARTANS as a key:hmpkrrsb
+
+Vernam Output using SPARTANS as a key:hmpkrrsb
+
+Vernam Output using SPARTANS as a key:hmpkrrsb
+
+Vernam Output using SPARTANS as a key:hmpkrrsb
+
